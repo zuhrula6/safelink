@@ -1,0 +1,7 @@
+<script src='https://cdn.rawgit.com/Kompi/js/master/safelink_utama.js'/>
+<script>
+//<![CDATA[
+protected_links = "YourDomain.com,linkedin.com,twitter.com,youtube.com,facebook.com,google.com"; //Simpan domain yang tidak ingin di-encrypted 
+auto_safelink();
+//]]>
+</script>
